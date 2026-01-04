@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Newsly Remastered",
+        "link": "https://github.com/Ravishanker-sharma/Newsly_remastered",
+        "description": "Built a full-stack news assistant integrating FastAPI, React, PostgreSQL, and Gemini LLMs. Features multi-threaded scrapers, vector-based recommendations, and voice interaction.",
+        "tags": ["Python", "PostgreSQL", "ChromaDB", "FastAPI", "LangChain"]
+    },
+    {
+        "title": "Yahoo Search Engine Smart Scraper",
+        "link": "https://github.com/Ravishanker-sharma/Scraper",
+        "description": "Developed a cost-effective, Python-based search engine for programmatic Yahoo searches. Uses BeautifulSoup/Requests to extract clean URLs and structured content without API fees.",
+        "tags": ["Python", "Request", "BS4"]
+    },
+    {
+        "title": "Advance Jarvis",
+        "link": "https://github.com/Ravishanker-sharma/Advanced-jarvis",
+        "description": "Voice-activated desktop assistant with wake-word detection and system automation. Integrates Gemini LLM via LangChain/LangGraph with memory, custom web search, and MCP tools.",
+        "tags": ["Python", "LangChain", "MCP", "BS4"]
+    },
+    {
+        "title": "Animal Facts (Docker)",
+        "link": "https://github.com/Ravishanker-sharma/docker_test",
+        "description": "Full-stack FastAPI + React app for learning Docker/CI/CD. Features containerized architecture with Docker Compose and automated deployment via GitHub Actions.",
+        "tags": ["Python", "Docker", "Linux", "CI/CD", "GitHub Actions"]
+    },
+    {
+        "title": "PromptOptimizer",
+        "link": "https://github.com/Ravishanker-sharma/PromptOptimizer",
+        "description": "An intelligent AI assistant framework that learns and adapts to user behavior using vector search and behavior profiling. Features silent behavior tracking and modular agents powered by Google's Gemini API and FAISS.",
+        "tags": ["Python", "Google ADK", "FAISS", "PostgreSQL", "SentenceTransformers"]
+    },
+    {
+        "title": "WhatsApp AI Assistant",
+        "link": "https://github.com/Ravishanker-sharma/WhatsAppAI",
+        "description": "A Python-based AI assistant that automates WhatsApp replies using a personalized persona. Features web search capability, persistent login, and Playwright-based automation.",
+        "tags": ["Python", "Playwright", "AI", "Automation", "Web Scraper"]
+    }
+]
