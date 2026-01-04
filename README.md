@@ -72,6 +72,7 @@
 
 <br />
 <hr/>
+
 ## 💼 Professional Experience
 
 <div align="center">
