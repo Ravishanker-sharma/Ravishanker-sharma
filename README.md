@@ -2,9 +2,14 @@
   <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Header" style="border-radius: 10px;" />
 
   <h1 style="font-size: 3rem; margin-top: 20px;">Ravishanker</h1>
-  <h3 style="font-size: 1.5rem;">AI Engineering Intern | Backend Developer | RAG Specialist</h3>
 
+  <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Engineering+Intern;Backend+Developer;RAG+Specialist" alt="Typing SVG" />
+  </a>
+  
   <p><em>"Building scalable AI backends and intelligent agents."</em></p>
+</div>
 </div>
 
 <br/>
