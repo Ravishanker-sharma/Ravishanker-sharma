@@ -48,51 +48,30 @@
 
 ## 🛠 Technology Arsenal
 
-<div align="center">
+**Programming Languages** &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-  <h3 style="margin-bottom:0;">Programming Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br />
 
-  <br/><br/>
+**Frameworks & Libs** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=diagrams.net&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white" />
 
-  <h3 style="margin-bottom:0;">Frameworks & Libraries</h3>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=diagrams.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-2C5BB4?style=for-the-badge&logo=python&logoColor=white" />
+<br />
 
-  <br/><br/>
+**AI & LLM Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Gemini_LLM-8E75B2?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Pipelines-FF9900?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/MCP_Protocol-007ACC?style=for-the-badge&logo=azure&logoColor=white" /> <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
-  <h3 style="margin-bottom:0;">AI & LLM</h3>
-  <img src="https://img.shields.io/badge/Gemini_LLM-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-FF9900?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP_Protocol-007ACC?style=for-the-badge&logo=azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<br />
 
-  <br/><br/>
+**Databases** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-FE2C55?style=for-the-badge&logo=database&logoColor=white" /> <img src="https://img.shields.io/badge/FAISS-0058CC?style=for-the-badge&logo=meta&logoColor=white" />
 
-  <h3 style="margin-bottom:0;">Databases</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FE2C55?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0058CC?style=for-the-badge&logo=meta&logoColor=white" />
+<br />
 
-  <br/><br/>
+**DevOps & Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-  <h3 style="margin-bottom:0;">DevOps & Deployment</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-</div>
-
-<br/>
+<br />
 <hr/>
 ## 💼 Professional Experience
 
