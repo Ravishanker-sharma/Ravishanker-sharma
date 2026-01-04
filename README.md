@@ -1,5 +1,5 @@
 <div align="center">
- <img src="./banner.png" width="100%" alt="AI RAG Banner" style="border-radius: 10px;" />
+ <img src="./banner.jpg" width="100%" alt="AI RAG Banner" style="border-radius: 10px;" />
   <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=900&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Ravishanker" alt="Ravishanker Name" />
