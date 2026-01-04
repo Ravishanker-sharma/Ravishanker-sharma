@@ -80,7 +80,7 @@
   <h3>Engineering Intern @ HumanAI</h3>
   
   <p>
-    <img src="https://img.shields.io/badge/Remote-Bengaluru-blue?style=flat-square" /> 
+    <img src="https://img.shields.io/badge/Remote-Gurugram-blue?style=flat-square" /> 
     <img src="https://img.shields.io/badge/June_2025-Dec_2025-orange?style=flat-square" />
   </p>
 </div>
@@ -175,13 +175,13 @@
   <a href="mailto:ravisharma87000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="(LINK_TO_YOUR_LINKEDIN)">
+  <a href="https://www.linkedin.com/in/ravishankersharma87/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="(LINK_TO_YOUR_GITHUB)">
+  <a href="https://github.com/Ravishanker-sharma">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="(LINK_TO_YOUR_PORTFOLIO)">
+  <a href="https://ravishanker-sharma.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
   </a>
 </div>
