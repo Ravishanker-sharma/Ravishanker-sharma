@@ -1,82 +1,182 @@
-<p align="center">
-  <!-- animated header using capsule-render -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Ravishanker%20Sharma&fontSize=42&fontColor=ffffff&animation=twinkle" alt="Ravishanker Sharma" />
-</p>
-
-<p align="center">
-  <i>AI Engineer · Backend Developer · DevOps Learner</i> · Bengaluru, India 🇮🇳
-</p>
-
----
-
 <div align="center">
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Header" style="border-radius: 10px;" />
 
-![coding-gif](https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif)
+  <h1 style="font-size: 3rem; margin-top: 20px;">Ravishanker</h1>
+  <h3 style="font-size: 1.5rem;">AI Engineering Intern | Backend Developer | RAG Specialist</h3>
+
+  <p><em>"Building scalable AI backends and intelligent agents."</em></p>
 </div>
 
----
+<br/>
 
-## 👋 Quick Intro
+## 👨‍💻 Quick Intro
 
-I build production-ready AI systems, scalable backends, and deployable ML + LLM experiences.  
-I specialize in Python, FastAPI, RAG pipelines, real-time voice AI, and developer workflows (Docker + CI/CD).
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <br/>
+      <b>Software Engineer Intern @ HumanAI | B.Tech @ MDU Rohtak</b>
+      <br/><br/>
+      <ul>
+        <li>🔭 <b>Experience:</b> Engineering Intern at HumanAI (Bengaluru/Remote), focusing on AI Email Personalization & RAG Optimization.</li>
+        <li>🎓 <b>Education:</b> Maharshi Dayanand University, B.Tech (2022-2026).</li>
+        <li>💡 <b>Expertise:</b> RAG Pipelines, AI Agents (MCP), Backend Systems, Low-latency Voice AI.</li>
+        <li>🎯 <b>Focus:</b> LLM Integration, System Design, CI/CD, and Containerization.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Coding Illustration" width="200" />
+    </td>
+  </tr>
+</table>
 
----
+<br/>
+<hr/>
 
-## 🚀 Top Highlights (with animations)
+## 🛠 Technology Arsenal
 
-### ⚙️ Backend & Infrastructure  
-<p align="center">
-  <!-- Docker / Container animation -->
-  <img src="https://lottiefiles.com/featured/3" alt="docker animation placeholder" />
-</p>
-- Built FastAPI backends, containerized services, and GitHub Actions pipelines.
+<div align="center">
+  <br/>
+  <b>Core Engineering</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
+  </a>
+  <br/><br/>
 
-### 🤖 AI & LLM / Voice Interfaces  
-<p align="center">
-  <!-- Voice assistant animation -->
-  <img src="https://cdn.dribbble.com/users/xxxx/screenshots/6606144/media/voice-assistant.gif" alt="voice assistant animation placeholder" />
-</p>
-- RAG pipelines (ChromaDB, FAISS), LangChain / LangGraph integrations, Gemini LLM experiments, and MCP+LiveKit voice flows.
+  <b>AI, LLM & Frameworks</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,selenium" />
+  </a>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_LLM-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <br/><br/>
 
-### ☁️ CI/CD & DevOps  
-<p align="center">
-  <img src="https://azure.github.io/actions/assets/azure-actions.png" alt="ci-cd animation placeholder" />
-</p>
-- Docker Compose, automated builds with GitHub Actions, and deploying containerized demos.
+  <b>Databases & Tools</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,docker,githubactions,linux,git,vscode,pycharm" />
+  </a>
+  <img src="https://img.shields.io/badge/ChromaDB-FE2C55?style=for-the-badge&logo=database&logoColor=white" />
+</div>
 
----
+<br/>
+<hr/>
 
-## 🛠️ Featured Projects (short)
+## 💼 Professional Experience
 
-- **Newsly Remastered** — AI news platform (FastAPI, React, ChromaDB, LangChain, Gemini)  
-- **Advance Jarvis** — Voice desktop assistant (LangChain, MCP)  
-- **Yahoo Smart Scraper** — lightweight search/scrape tool (BeautifulSoup + Requests)  
-- **Animal Facts** — Docker + CI/CD learning project (FastAPI + React)
+<div align="center">
+  <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="HumanAI Logo" width="60"/>
+  <h3>Engineering Intern @ HumanAI</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Remote-Bengaluru-blue?style=flat-square" /> 
+    <img src="https://img.shields.io/badge/June_2025-Dec_2025-orange?style=flat-square" />
+  </p>
+</div>
 
----
+> **Backend & AI Optimization:** Designed scalable backend services for AI-powered Email Personalization and Real-Time Voice AI.
 
-## 🧩 Tech Stack (animated badges)
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postgres-316192?logo=postgresql&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&style=for-the-badge" />
-</p>
+* **AI Email Personalization:** Built backend services using **Python** and **FastAPI** for context-aware content generation.
+* **RAG Optimization:** Enhanced retrieval accuracy and reduced latency by optimizing document chunking and embedding strategies.
+* **Real-Time Voice AI:** Integrated **MCP** with LiveKit agents for low-latency voice interactions.
+* **Production Delivery:** Collaborated to ship reliable AI features using Docker and CI/CD pipelines.
 
----
+<br/>
+<hr/>
 
-## 📫 Connect
+## 🚀 Project Highlights & Technical Impact
 
-<p align="center">
-  <a href="mailto:ravisharma87000@gmail.com">Email</a> ·
-  <a href="https://github.com/Ravishanker-sharma">GitHub</a> ·
-  <a href="https://linkedin.com">LinkedIn</a>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th width="20%">Project</th>
+      <th width="25%">Stack</th>
+      <th width="55%">Impact & Features</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <b>Newsly Remastered</b><br/>
+        <sub>AI News Platform</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,postgres,fastapi" width="80" />
+      </td>
+      <td>
+        ✅ <b>Personalized News:</b> Integrated Gemini LLMs & Vector Search (ChromaDB).<br/>
+        ✅ <b>Smart Agents:</b> Implemented LangGraph chatbots with memory & tool use.<br/>
+        ✅ <b>Voice Support:</b> Added voice interaction for natural user engagement.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Advance Jarvis</b><br/>
+        <sub>Voice Desktop Assistant</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="40" />
+        <br/><sub>LangChain + MCP</sub>
+      </td>
+      <td>
+        🎙️ <b>Automation:</b> Voice-activated wake-word detection & system control.<br/>
+        🧠 <b>Memory:</b> Integrated LangChain memory for context-aware interactions.<br/>
+        🔌 <b>Tooling:</b> Added custom web search and scraping tools.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Yahoo Search Engine</b><br/>
+        <sub>Smart Scraper</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="40" />
+        <br/><sub>BS4 + Requests</sub>
+      </td>
+      <td>
+        💰 <b>Cost-Effective:</b> Alternative to expensive Search APIs.<br/>
+        🕸️ <b>Structured Data:</b> Extracts clean URLs, titles, and paragraphs.<br/>
+        ⚡ <b>Optimization:</b> Modular design for research automation.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Animal Facts</b><br/>
+        <sub>DevOps Learning</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,githubactions" width="80" />
+      </td>
+      <td>
+        🐳 <b>Containerization:</b> Full-stack app (FastAPI + React) in Docker Compose.<br/>
+        🔄 <b>CI/CD:</b> Automated deployment via GitHub Actions & Self-hosted runners.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
----
+<br/>
+<hr/>
 
-<p align="center">
-  <sub>Made with ❤️ and lots of containers</sub>
-</p>
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  <a href="mailto:ravisharma87000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="(LINK_TO_YOUR_LINKEDIN)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="(LINK_TO_YOUR_GITHUB)">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="(LINK_TO_YOUR_PORTFOLIO)">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <em>"Optimize for nanoseconds, design for millions."</em>
+</div>
