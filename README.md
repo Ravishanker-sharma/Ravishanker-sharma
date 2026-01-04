@@ -1,14 +1,21 @@
 <div align="center">
   <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Header" style="border-radius: 10px;" />
 
-  <h1 style="font-size: 3rem; margin-top: 20px;">Ravishanker</h1>
+  <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=900&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Ravishanker" alt="Ravishanker Name" />
+  </a>
+</div>
 
   <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Engineering+Intern;Backend+Developer;RAG+Specialist" alt="Typing SVG" />
   </a>
-  
-  <p><em>"Building scalable AI backends and intelligent agents."</em></p>
+  <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&pause=1000&color=FFB86C&center=true&vCenter=true&width=700&lines=Building+scalable+AI+backends+and+intelligent+agents." alt="Typing SVG" />
+  </a>
+</div>
 </div>
 </div>
 
@@ -23,10 +30,11 @@
       <b>Software Engineer Intern @ HumanAI | B.Tech @ MDU Rohtak</b>
       <br/><br/>
       <ul>
-        <li>🔭 <b>Experience:</b> Engineering Intern at HumanAI (Bengaluru/Remote), focusing on AI Email Personalization & RAG Optimization.</li>
+        <li>🔭 <b>Experience:</b> Ex Engineering Intern at HumanAI (Gurugram/Remote), focusing on AI Email Personalization & RAG Optimization.</li>
         <li>🎓 <b>Education:</b> Maharshi Dayanand University, B.Tech (2022-2026).</li>
         <li>💡 <b>Expertise:</b> RAG Pipelines, AI Agents (MCP), Backend Systems, Low-latency Voice AI.</li>
-        <li>🎯 <b>Focus:</b> LLM Integration, System Design, CI/CD, and Containerization.</li>
+        <li>🎯 <b>Focus:</b> LLM Integration, Backend, CI/CD, and Containerization.</li>
+        <br/>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -41,32 +49,51 @@
 ## 🛠 Technology Arsenal
 
 <div align="center">
-  <br/>
-  <b>Core Engineering</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
-  </a>
+
+  <h3 style="margin-bottom:0;">Programming Languages</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
   <br/><br/>
 
-  <b>AI, LLM & Frameworks</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,selenium" />
-  </a>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <h3 style="margin-bottom:0;">Frameworks & Libraries</h3>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_LLM-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-2C5BB4?style=for-the-badge&logo=python&logoColor=white" />
+
   <br/><br/>
 
-  <b>Databases & Tools</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,docker,githubactions,linux,git,vscode,pycharm" />
-  </a>
+  <h3 style="margin-bottom:0;">AI & LLM</h3>
+  <img src="https://img.shields.io/badge/Gemini_LLM-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FF9900?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_Protocol-007ACC?style=for-the-badge&logo=azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+  <br/><br/>
+
+  <h3 style="margin-bottom:0;">Databases</h3>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FE2C55?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0058CC?style=for-the-badge&logo=meta&logoColor=white" />
+
+  <br/><br/>
+
+  <h3 style="margin-bottom:0;">DevOps & Deployment</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
 </div>
 
 <br/>
 <hr/>
-
 ## 💼 Professional Experience
 
 <div align="center">
