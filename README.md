@@ -5,7 +5,7 @@
 <h3 align="center">AI Engineer · Backend Developer · DevOps Learner</h3>
 
 <p align="center">
-  <b>Engineering Intern @ HumanAI</b> · B.Tech CSE · India 🇮🇳
+  <b>Engineering Intern @ HumanAI</b> · B.Tech ECE · India 🇮🇳
 </p>
 
 ---
